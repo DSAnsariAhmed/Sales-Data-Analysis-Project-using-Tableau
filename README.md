@@ -25,7 +25,7 @@ My First Tableau Project: Unlocking Business Insights from Kaggle Sales Data. Da
 3. Dashboard with respect to Phone Sub-category:
 ![Screenshot 2025-01-05 181636](https://github.com/user-attachments/assets/a2637865-308e-4f85-8dea-7313c616a04c)
 
-4. Dashbord with respect to Monthly Trends by June month:
+4. Dashboard with respect to Monthly Trends by June month:
 ![Screenshot 2025-01-05 181709](https://github.com/user-attachments/assets/2b5bd062-37ba-46d7-894b-feb0d6f4d80d)
 
 # 📊 Key Insights Uncovered:
