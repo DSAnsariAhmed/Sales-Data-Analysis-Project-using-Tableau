@@ -44,7 +44,7 @@ Regions like South and Central indicate untapped potential. Focused marketing ef
 5️⃣ Cost Efficiency Opportunities:
 Low-margin products and regions require closer scrutiny of logistics and operational costs to ensure sustainable profitability.
 
-# Final Conslusion:
+# Final Conclusion:
 
 🎯 What I Learned:
 This project taught me the power of visual storytelling and how data-driven insights can transform business strategies. Tableau made it easy to connect the dots and identify actionable opportunities for growth.
