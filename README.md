@@ -16,8 +16,17 @@ My First Tableau Project: Unlocking Business Insights from Kaggle Sales Data. Da
   <a href="https://github.com/DSAnsariAhmed/Sales-Data-Analysis-Project-using-Tableau/blob/main/Sales%20Analysis.twb">Dashboard Tableau File</a>
 
 # Dashboard:
-
+1. Main Dashboard:
 ![Screenshot 2025-01-05 181541](https://github.com/user-attachments/assets/c261c5f3-5730-4bf2-b68f-f938eb72f170)
+
+2. Dashboard with respect to East Region:
+![Screenshot 2025-01-05 181614](https://github.com/user-attachments/assets/5e06dbd8-e691-4b65-8519-580081f06aa3)
+
+3. Dashboard with respect to Phone Sub-category:
+![Screenshot 2025-01-05 181636](https://github.com/user-attachments/assets/a2637865-308e-4f85-8dea-7313c616a04c)
+
+4. Dashbord with respect to Monthly Trends by June month:
+![Screenshot 2025-01-05 181709](https://github.com/user-attachments/assets/2b5bd062-37ba-46d7-894b-feb0d6f4d80d)
 
 # 📊 Key Insights Uncovered:
 1️⃣ Top-Performing Regions:
